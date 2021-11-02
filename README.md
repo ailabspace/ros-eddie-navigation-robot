@@ -375,6 +375,9 @@ There are useful tutorials on how to use rViz in the wiki page. For convenience,
 
 * **Hafiq Anas** - *Initial work* - UBD Final Year Project 2018 - 2019
 
+## Publication
+
+* Hafiq Anas, Wee Hong Ong, “An implementation of ROS Autonomous Navigation on Parallax Eddie platform”, arXiv preprint (2021) https://arxiv.org/abs/2108.12571
 
 ## Acknowledgments
 
