@@ -379,6 +379,10 @@ There are useful tutorials on how to use rViz in the wiki page. For convenience,
 
 * Hafiq Anas, Wee Hong Ong, “An implementation of ROS Autonomous Navigation on Parallax Eddie platform”, arXiv preprint (2021) https://arxiv.org/abs/2108.12571
 
+## Project Webpage
+
+* https://ailab.space/projects/personal-robots/#robot-navi-eddie
+
 ## Acknowledgments
 
 * Thank you AI Lab for lending the Eddie robot platform and lab facilities.
